@@ -12,4 +12,3 @@ Front-end: HTML,CSS ; Back-end: Python(Flask framework) ; and phpMyAdmin is used
 ![10](https://user-images.githubusercontent.com/128667315/227506196-58912153-be3c-4513-910e-8127c5654c2b.png)
 ![11](https://user-images.githubusercontent.com/128667315/227506206-12298f8c-7ca2-42a3-98ff-0dd7679a8606.png)
 ![12](https://user-images.githubusercontent.com/128667315/227506210-ad8ce3b6-715c-4dde-8495-cc82d8cf7575.png)
-![13](https://user-images.githubusercontent.com/128667315/227506216-d7c559a6-1824-4609-8f4f-dd74efb37482.png)
